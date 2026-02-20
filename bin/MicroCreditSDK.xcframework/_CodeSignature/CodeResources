@@ -22,7 +22,7 @@
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/MicroCreditSDK</key>
 		<data>
-		qnIrZ/GroOqWHhNwyXmlA8rY4rQ=
+		L2F3LmRI8v5WCwygR0tqZaMAleI=
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/Assets.car</key>
 		<data>
-		neJ2nzK++t9Afqj7Fkg7Iw0m7H4=
+		4jGp/WNlfExssRTbIEeOb45zdeM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/Info.plist</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		Fhk0FI8GSmIJNpU7XrHZkUykykE=
+		RPjXiv6SCO+hTBajVaIZPJvhz0M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		J2tYq0rUOXW1tzmF+baSOgn+QGA=
+		Mt0FUYW7QmoF2wyoBmuIMAqqbas=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -203,7 +203,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rwf9gDYQHAdgmy6SouIjEHSRBJagB68g+E8VrV29uLc=
+			VMY5LYTIyCeFzI1v5srt4sL8Kut8ji1VsoYqjW4aRhA=
 			</data>
 		</dict>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -287,7 +287,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			18LiWnryS8zaVCv+CCFzHAExTaD9WMHNGcV1y95gQCU=
+			KtGp3Mw0F93JDYTnHLKzw11W6W3rsOS6iEe5VRjr5Ww=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/Info.plist</key>
@@ -301,7 +301,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Refyp71wX3RG5rjD6CsA7ag3V5/JXZPNRUBDT6dXoqY=
+			0zas1xbUdG+GB48/RybtF+Xagu7q9lh4GxpgxBlhg9M=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -315,7 +315,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iAB1dmjPBK3XC8ys2zqJZjIvMiJuerUbAr8HWCEY3BY=
+			oGFd2HrIVHnHcPcszhaCrSzYZ3z6jOrnAvuq7qCfdlg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/_CodeSignature/CodeSignature</key>
