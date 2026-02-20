@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/Assets.car</key>
 		<data>
-		4jGp/WNlfExssRTbIEeOb45zdeM=
+		neJ2nzK++t9Afqj7Fkg7Iw0m7H4=
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/Info.plist</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/MicroCreditSDK</key>
 		<data>
-		L2F3LmRI8v5WCwygR0tqZaMAleI=
+		6y1b7iTKL0njd+hmBUOHFTVahiE=
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		UoPCJyLMrAh3p9aZRIzroViqh6k=
+		8LOYgCVP9d4eUfBI97nIiqmNx84=
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		vWxtadQdztU/wH+sQ2B/CGxxZ9k=
+		olYHfC3chcZE75pgu6GayvDpiCc=
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		UoPCJyLMrAh3p9aZRIzroViqh6k=
+		8LOYgCVP9d4eUfBI97nIiqmNx84=
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		FxoB3bDHU28l+k1I7Mi0pM+DQbA=
+		XFAm/ggXRhmOgitn0AvBCWmBODA=
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		24P5H1aEVp1bTbm9M07Rr8Au2Nw=
+		2JOoVD+Y0h4I9In0ZLCe3I3atqM=
 		</data>
 		<key>ios-arm64/MicroCreditSDK.framework/fullchain_birbank_business.cer</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/MicroCreditSDK</key>
 		<data>
-		odZp4AIvsa2MctLIQiDiueUWEqM=
+		y7gUgtfqqHvFbQ2v5DQBc5eH0ig=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -110,19 +110,19 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		NXob9K/g/t91HyND98qj22BeqEk=
+		sFys3iR0Uaqb9Epn533dzbrwi7M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ApkryJXttf/5RXohd+LT6G6AN0A=
+		FzBRj7hlH8wG8vwwoLd5mNKlpEA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NXob9K/g/t91HyND98qj22BeqEk=
+		sFys3iR0Uaqb9Epn533dzbrwi7M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qidcEuaF6x1JP+jdgNbwAOUiOCQ=
+		JKoRA/Jw0KA8ZG0UleQf5gYTuSQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -130,19 +130,19 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		d+qMYBZYxw9jqD1AiQHx8GRbQeU=
+		lEWPbf6znbsS2MHVH4L2VkJSnn0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9GnDOVZt+Msl2qmSzA7uNWxTU3Q=
+		iB7SkYZr6rpbcPRWEtbIjGs3UsQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		d+qMYBZYxw9jqD1AiQHx8GRbQeU=
+		lEWPbf6znbsS2MHVH4L2VkJSnn0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KGxl6SdUOZArW0ItYealSOuDaug=
+		XITr0EC6yzbXu8hc6Hlnbdh0Ukw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		8sEZ7Icy2SOhbFshpLxf39ojddU=
+		AwSwPpZUd87e14C6I0NbEZHwD4U=
 		</data>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/fullchain_birbank_business.cer</key>
 		<data>
@@ -175,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KtGp3Mw0F93JDYTnHLKzw11W6W3rsOS6iEe5VRjr5Ww=
+			18LiWnryS8zaVCv+CCFzHAExTaD9WMHNGcV1y95gQCU=
 			</data>
 		</dict>
 		<key>ios-arm64/MicroCreditSDK.framework/BirDesignSystem_BirDesignResources.bundle/Info.plist</key>
@@ -203,7 +203,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VMY5LYTIyCeFzI1v5srt4sL8Kut8ji1VsoYqjW4aRhA=
+			EdezjHqG7Ql5l0/YM6KdiejGUQzjGKlKXyUux8O6rYE=
 			</data>
 		</dict>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -217,28 +217,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fORliP+H0CZCLuXbKS3VhJitAt1g512AbddMPGaIYqo=
+			lHba1b0Nvs8AjPLhrTtyO520ewZowYqHzhfUK/OPEgk=
 			</data>
 		</dict>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M2OLD5fzYFa+938Ea2DpMFLJy0I8dnU+4PLC2nc0k2w=
+			DdsBkpVN7l5VoAE53+I/obZ990d6mXx2OUUs3Ljp+4A=
 			</data>
 		</dict>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fORliP+H0CZCLuXbKS3VhJitAt1g512AbddMPGaIYqo=
+			lHba1b0Nvs8AjPLhrTtyO520ewZowYqHzhfUK/OPEgk=
 			</data>
 		</dict>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7E81XCHWuFYExtxFPWp3QdDENMx4EYE627haTLHMAn8=
+			9Ow9E6xIBOkdVytSXcKRctCiR5gxVtd/zHvm+v8VkQ8=
 			</data>
 		</dict>
 		<key>ios-arm64/MicroCreditSDK.framework/Modules/module.modulemap</key>
@@ -252,7 +252,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d2cBoA6L4F96QvTynM4oG5ja7n6VdEOVr0Dp1TH9Dag=
+			jtFQagg3ydO3ZqbeuYBhBLpo1yZ7kcC1+GvF5GP/q/8=
 			</data>
 		</dict>
 		<key>ios-arm64/MicroCreditSDK.framework/fullchain_birbank_business.cer</key>
@@ -343,7 +343,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oZhl1aSnOwmJlZgIEuI5zCgWRwGkFR647HWLhYpR8X4=
+			EuBfKdnjcg7bzr9+ZAeFZzVHxk3g+36YrhzSxN7YmiE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -357,28 +357,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xOvtfYECbUf0inwH8Kn0Wx1FGqFwyTU6W3GCRlHyW48=
+			GhcYiuqCFp5hiMCkAbPXFSVfnZvHjAQJFvd/5RNxNJ8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qDK5bsW3/X1N4gZfGYroNn5nNDNsCTvfNFOubOETBe8=
+			SI6ZhAznC9hI1M04VEa7wMhPWg/ZRg50EsB5Bz6nDw0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xOvtfYECbUf0inwH8Kn0Wx1FGqFwyTU6W3GCRlHyW48=
+			GhcYiuqCFp5hiMCkAbPXFSVfnZvHjAQJFvd/5RNxNJ8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G7swYOKlyQFg2+aMQ+zWcy7Qw19QCctSDqcnsd6KtF8=
+			Uz8SDFpUR+yy9lBY7KXQ0BLXZe6vSnZyty+PHPVKfn8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -392,28 +392,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zrS2Kiz8XHDfOo9PYWQHYWSoROegZZ9AOy9wHdErqs4=
+			lMqIZZjs+M++2vCJ94J4QjlUy6cuH2UsmOvLMduuEco=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oZmapbfdkVRlfjKNNBZUqZ50qdpKD+yhmBz/lPoxcZ8=
+			VK21SS7oD5m+CcRlegirHAvwmJVEP8IuRLXWbTqBgYI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zrS2Kiz8XHDfOo9PYWQHYWSoROegZZ9AOy9wHdErqs4=
+			lMqIZZjs+M++2vCJ94J4QjlUy6cuH2UsmOvLMduuEco=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t3F5OjFrFMW1Ebd3kQY28Vs9yhY9kTxDzZb9n9ad8WE=
+			S6UOeWqEo9Lx39nnek5kaeRIIIfY9UVHMFnWJux9bOA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/Modules/module.modulemap</key>
@@ -427,7 +427,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			74JdUwIdArVlDuP/R7MxqRvi9+pgKdrmKLoqV/nby9g=
+			qK0EZKxlPn7i3zytypcXd3Z5bh7m3YxAAZOs6VuFFtY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/MicroCreditSDK.framework/fullchain_birbank_business.cer</key>

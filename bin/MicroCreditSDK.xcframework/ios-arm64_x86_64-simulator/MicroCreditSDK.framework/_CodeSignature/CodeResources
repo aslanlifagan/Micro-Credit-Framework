@@ -18,19 +18,19 @@
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		NXob9K/g/t91HyND98qj22BeqEk=
+		sFys3iR0Uaqb9Epn533dzbrwi7M=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ApkryJXttf/5RXohd+LT6G6AN0A=
+		FzBRj7hlH8wG8vwwoLd5mNKlpEA=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NXob9K/g/t91HyND98qj22BeqEk=
+		sFys3iR0Uaqb9Epn533dzbrwi7M=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qidcEuaF6x1JP+jdgNbwAOUiOCQ=
+		JKoRA/Jw0KA8ZG0UleQf5gYTuSQ=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		d+qMYBZYxw9jqD1AiQHx8GRbQeU=
+		lEWPbf6znbsS2MHVH4L2VkJSnn0=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9GnDOVZt+Msl2qmSzA7uNWxTU3Q=
+		iB7SkYZr6rpbcPRWEtbIjGs3UsQ=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		d+qMYBZYxw9jqD1AiQHx8GRbQeU=
+		lEWPbf6znbsS2MHVH4L2VkJSnn0=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KGxl6SdUOZArW0ItYealSOuDaug=
+		XITr0EC6yzbXu8hc6Hlnbdh0Ukw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -93,28 +93,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xOvtfYECbUf0inwH8Kn0Wx1FGqFwyTU6W3GCRlHyW48=
+			GhcYiuqCFp5hiMCkAbPXFSVfnZvHjAQJFvd/5RNxNJ8=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qDK5bsW3/X1N4gZfGYroNn5nNDNsCTvfNFOubOETBe8=
+			SI6ZhAznC9hI1M04VEa7wMhPWg/ZRg50EsB5Bz6nDw0=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xOvtfYECbUf0inwH8Kn0Wx1FGqFwyTU6W3GCRlHyW48=
+			GhcYiuqCFp5hiMCkAbPXFSVfnZvHjAQJFvd/5RNxNJ8=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G7swYOKlyQFg2+aMQ+zWcy7Qw19QCctSDqcnsd6KtF8=
+			Uz8SDFpUR+yy9lBY7KXQ0BLXZe6vSnZyty+PHPVKfn8=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -128,28 +128,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zrS2Kiz8XHDfOo9PYWQHYWSoROegZZ9AOy9wHdErqs4=
+			lMqIZZjs+M++2vCJ94J4QjlUy6cuH2UsmOvLMduuEco=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oZmapbfdkVRlfjKNNBZUqZ50qdpKD+yhmBz/lPoxcZ8=
+			VK21SS7oD5m+CcRlegirHAvwmJVEP8IuRLXWbTqBgYI=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zrS2Kiz8XHDfOo9PYWQHYWSoROegZZ9AOy9wHdErqs4=
+			lMqIZZjs+M++2vCJ94J4QjlUy6cuH2UsmOvLMduuEco=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t3F5OjFrFMW1Ebd3kQY28Vs9yhY9kTxDzZb9n9ad8WE=
+			S6UOeWqEo9Lx39nnek5kaeRIIIfY9UVHMFnWJux9bOA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
