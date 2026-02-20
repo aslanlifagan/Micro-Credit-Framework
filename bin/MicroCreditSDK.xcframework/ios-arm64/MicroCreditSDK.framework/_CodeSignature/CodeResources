@@ -18,23 +18,39 @@
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		AI9+mpwgYSQArOy07CnLJqdsMss=
+		UoPCJyLMrAh3p9aZRIzroViqh6k=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		olYHfC3chcZE75pgu6GayvDpiCc=
+		vWxtadQdztU/wH+sQ2B/CGxxZ9k=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		AI9+mpwgYSQArOy07CnLJqdsMss=
+		UoPCJyLMrAh3p9aZRIzroViqh6k=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		lmDusJEO0FXMMzekfXcfqnho7O0=
+		FxoB3bDHU28l+k1I7Mi0pM+DQbA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		J2eLVX+Aht6+zSM2HQgO2YRovbg=
+		</data>
+		<key>fullchain_birbank_business.cer</key>
+		<data>
+		G1Eavq1Zxs4gcHfAvw4AQ7E4JhI=
+		</data>
+		<key>wildcard_birbank_business2026.cer</key>
+		<data>
+		eekprWvj/EQYkDCIDroi1b7rUbY=
+		</data>
+		<key>wildcard_kapitalbank_az2026.cer</key>
+		<data>
+		+4J9CR8ajERehg7CwVix4/c4azs=
+		</data>
+		<key>wildcard_kapitalbank_az_full_chain.cer</key>
+		<data>
+		SCUajs25ppniC69ZyRRs3BzhvIs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -57,28 +73,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rq6OK32RgxQOF+463hTBzWHJ7E9fssqQwjbYB53Wly8=
+			fORliP+H0CZCLuXbKS3VhJitAt1g512AbddMPGaIYqo=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DdsBkpVN7l5VoAE53+I/obZ990d6mXx2OUUs3Ljp+4A=
+			M2OLD5fzYFa+938Ea2DpMFLJy0I8dnU+4PLC2nc0k2w=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rq6OK32RgxQOF+463hTBzWHJ7E9fssqQwjbYB53Wly8=
+			fORliP+H0CZCLuXbKS3VhJitAt1g512AbddMPGaIYqo=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7hx9jVfDQpNJzmdfnJ9t45hkuuArRwwNSdOpL+d/UvU=
+			7E81XCHWuFYExtxFPWp3QdDENMx4EYE627haTLHMAn8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -86,6 +102,34 @@
 			<key>hash2</key>
 			<data>
 			whl2M+4rIOpBUDTNA20s/AbMnnG4mHm2NY4kkP4qDcA=
+			</data>
+		</dict>
+		<key>fullchain_birbank_business.cer</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yAJfn8Zf38lbPKjMeGe5pYe1J3lzlXkXRj/IE9C2Jak=
+			</data>
+		</dict>
+		<key>wildcard_birbank_business2026.cer</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7lLwLExKfxdypTI5+BlGq8Cw17VGkrbvaaciDkD1QkA=
+			</data>
+		</dict>
+		<key>wildcard_kapitalbank_az2026.cer</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rOqr/nWv5dfc/fC2OLO4rDXggm+ZrGbN+LeJOGQRdtU=
+			</data>
+		</dict>
+		<key>wildcard_kapitalbank_az_full_chain.cer</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6kYr1QjipnGE4WXQ1OsuDCYr63dXNId4DRJjiZQgWTg=
 			</data>
 		</dict>
 	</dict>

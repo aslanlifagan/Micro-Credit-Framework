@@ -18,19 +18,19 @@
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		DbLj+8kk2vK0qPF0oxXPAx+WxaY=
+		NXob9K/g/t91HyND98qj22BeqEk=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		FzBRj7hlH8wG8vwwoLd5mNKlpEA=
+		ApkryJXttf/5RXohd+LT6G6AN0A=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DbLj+8kk2vK0qPF0oxXPAx+WxaY=
+		NXob9K/g/t91HyND98qj22BeqEk=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		64ZiRc32Kqhyil7tpYByBKGrEcw=
+		qidcEuaF6x1JP+jdgNbwAOUiOCQ=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,23 +38,39 @@
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		FnyOOUVsanRWK6WsM1U9cSgooss=
+		d+qMYBZYxw9jqD1AiQHx8GRbQeU=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		iB7SkYZr6rpbcPRWEtbIjGs3UsQ=
+		9GnDOVZt+Msl2qmSzA7uNWxTU3Q=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FnyOOUVsanRWK6WsM1U9cSgooss=
+		d+qMYBZYxw9jqD1AiQHx8GRbQeU=
 		</data>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Xg8UFsptTophi8Tpl4qquNDU6u0=
+		KGxl6SdUOZArW0ItYealSOuDaug=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		J2eLVX+Aht6+zSM2HQgO2YRovbg=
+		</data>
+		<key>fullchain_birbank_business.cer</key>
+		<data>
+		G1Eavq1Zxs4gcHfAvw4AQ7E4JhI=
+		</data>
+		<key>wildcard_birbank_business2026.cer</key>
+		<data>
+		eekprWvj/EQYkDCIDroi1b7rUbY=
+		</data>
+		<key>wildcard_kapitalbank_az2026.cer</key>
+		<data>
+		+4J9CR8ajERehg7CwVix4/c4azs=
+		</data>
+		<key>wildcard_kapitalbank_az_full_chain.cer</key>
+		<data>
+		SCUajs25ppniC69ZyRRs3BzhvIs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -77,28 +93,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dP1F2qs53cAfaKlUi112PJ8K1eYVoZTSv253nB5rn/o=
+			xOvtfYECbUf0inwH8Kn0Wx1FGqFwyTU6W3GCRlHyW48=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SI6ZhAznC9hI1M04VEa7wMhPWg/ZRg50EsB5Bz6nDw0=
+			qDK5bsW3/X1N4gZfGYroNn5nNDNsCTvfNFOubOETBe8=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dP1F2qs53cAfaKlUi112PJ8K1eYVoZTSv253nB5rn/o=
+			xOvtfYECbUf0inwH8Kn0Wx1FGqFwyTU6W3GCRlHyW48=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xKOtsqAW4do2mldiHJrDouXjvP2y9dzq6YHXzPCsvdQ=
+			G7swYOKlyQFg2+aMQ+zWcy7Qw19QCctSDqcnsd6KtF8=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -112,28 +128,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			biDM7r3S90CXFbRYLWjtEF7AngHfLfR6Kb+6EYBAH1M=
+			zrS2Kiz8XHDfOo9PYWQHYWSoROegZZ9AOy9wHdErqs4=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VK21SS7oD5m+CcRlegirHAvwmJVEP8IuRLXWbTqBgYI=
+			oZmapbfdkVRlfjKNNBZUqZ50qdpKD+yhmBz/lPoxcZ8=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			biDM7r3S90CXFbRYLWjtEF7AngHfLfR6Kb+6EYBAH1M=
+			zrS2Kiz8XHDfOo9PYWQHYWSoROegZZ9AOy9wHdErqs4=
 			</data>
 		</dict>
 		<key>Modules/MicroCreditSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			avJ7eUHsRkMTDk5/Om/Qo6zRn3FaCWmte0koqimNpjk=
+			t3F5OjFrFMW1Ebd3kQY28Vs9yhY9kTxDzZb9n9ad8WE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -141,6 +157,34 @@
 			<key>hash2</key>
 			<data>
 			whl2M+4rIOpBUDTNA20s/AbMnnG4mHm2NY4kkP4qDcA=
+			</data>
+		</dict>
+		<key>fullchain_birbank_business.cer</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yAJfn8Zf38lbPKjMeGe5pYe1J3lzlXkXRj/IE9C2Jak=
+			</data>
+		</dict>
+		<key>wildcard_birbank_business2026.cer</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7lLwLExKfxdypTI5+BlGq8Cw17VGkrbvaaciDkD1QkA=
+			</data>
+		</dict>
+		<key>wildcard_kapitalbank_az2026.cer</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rOqr/nWv5dfc/fC2OLO4rDXggm+ZrGbN+LeJOGQRdtU=
+			</data>
+		</dict>
+		<key>wildcard_kapitalbank_az_full_chain.cer</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6kYr1QjipnGE4WXQ1OsuDCYr63dXNId4DRJjiZQgWTg=
 			</data>
 		</dict>
 	</dict>
