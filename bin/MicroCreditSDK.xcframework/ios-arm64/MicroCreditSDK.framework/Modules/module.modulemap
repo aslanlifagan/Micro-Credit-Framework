@@ -1,0 +1,6 @@
+framework module MicroCreditSDK {
+  umbrella header "MicroCreditSDK.h"
+  export *
+
+  module * { export * }
+}

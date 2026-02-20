@@ -1,0 +1,68 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target x86_64-apple-ios15.6-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name MicroCreditSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+import BirDesignResources
+import Common
+import Data
+import Domain
+import Foundation
+@_exported import MicroCreditSDK
+import Network
+import Swift
+import UIKit.UIDevice
+import UIKit
+import UIKit.UINavigationController
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct UserAgent : Swift.Encodable {
+  public let os: Swift.String
+  public let osVersion: Swift.String
+  public let deviceVersion: Swift.String
+  public let deviceModel: Swift.String
+  public let deviceType: Swift.String
+  public let appVersion: Swift.String
+  public let deviceId: Swift.String
+  public init(os: Swift.String, osVersion: Swift.String, deviceVersion: Swift.String, deviceModel: Swift.String, deviceType: Swift.String, appVersion: Swift.String, deviceId: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+}
+public protocol MicroConfigurable {
+  var apiHeader: [Swift.String : Swift.String] { get }
+  var apiBaseURL: Foundation.URL { get }
+  var accessToken: Swift.String { get }
+  var language: Swift.String { get }
+  var userAgent: MicroCreditSDK.UserAgent { get }
+}
+final public class MicroConfiguration : MicroCreditSDK.MicroConfigurable {
+  final public let accessToken: Swift.String
+  final public let language: Swift.String
+  final public let userAgent: MicroCreditSDK.UserAgent
+  public init(accesstoken: Swift.String, language: Swift.String, userAgent: MicroCreditSDK.UserAgent, environment: Common.BuildEnvironment)
+  final public var apiHeader: [Swift.String : Swift.String] {
+    get
+  }
+  final public var apiBaseURL: Foundation.URL {
+    get
+  }
+  @objc deinit
+}
+final public class MicroDIContainer {
+  public init(config: any MicroCreditSDK.MicroConfigurable, unAuthorizedHandler: @escaping () -> Swift.Void)
+  @_Concurrency.MainActor final public func makeMicroCreditCoordinator(router: UIKit.UINavigationController) -> MicroCreditSDK.MicroCreditCoordinator
+  @objc deinit
+}
+@_Concurrency.MainActor final public class MicroCreditCoordinator : Common.BaseCoordinator {
+  @_Concurrency.MainActor final public var children: [any Common.BaseCoordinator]
+  @_Concurrency.MainActor final public var router: any Common.Routable
+  @_Concurrency.MainActor final public var parentCoordinator: (any Common.BaseCoordinator)?
+  @_Concurrency.MainActor final public var rootNavigationController: UIKit.UINavigationController
+  @_Concurrency.MainActor public init(router: UIKit.UINavigationController, diContainer: MicroCreditSDK.MicroCreditDIContainer)
+  @_Concurrency.MainActor final public func start()
+  @objc deinit
+}
+final public class MicroCreditDIContainer {
+  public init(apiService: any Network.APIService)
+  @objc deinit
+}
+extension MicroCreditSDK.MicroCreditCoordinator : Swift.Sendable {}
